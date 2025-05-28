@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 
 > "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successfull personality and duplicate it."
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=liu246542&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=liu246542&column=5&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
+</div>
