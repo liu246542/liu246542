@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 > "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
 
 <div align="center">
-    <img src="https://wakatime.com/share/@576d3a82-af8c-4297-941c-f2bb44432de8/68885c2b-6dab-4a7b-94eb-b71439a0a9d5.svg" alt="Wakatime" style="max-width: 100%; width: 685px;">
+    <img src="https://wakatime.com/share/@576d3a82-af8c-4297-941c-f2bb44432de8/68885c2b-6dab-4a7b-94eb-b71439a0a9d5.svg" alt="Wakatime" style="max-width: 80%; width: 685px;">
 </div>
 
 > "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successfull personality and duplicate it."
