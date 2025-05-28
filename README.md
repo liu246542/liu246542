@@ -1,4 +1,4 @@
-## Hi there 👋
+## Excited! 🤓
 
 <!--
 **liu246542/liu246542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.shields.io/github/followers/liu246542?style=flat&label=Followers"/>
     <a href="https://github.com/liu246542?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
     <a href="https://nerdliu.cyou"><img align="center" src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray"/></a>
-    <a href="https://fishing.nerdliu.cyou"><img align="center" src="https://img.shields.io/badge/Game-Memories-blue?style=flat&labelColor=gray"/></a>
+    <a href="https://fishing.nerdliu.cyou/#/game/fliu"><img align="center" src="https://img.shields.io/badge/Game-Memories-blue?style=flat&labelColor=gray"/></a>
 </p>
 
 > "The key to immortality is first living a life worth remembering."
