@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img align="center" src="https://img.shields.io/github/stars/liu246542?style=flat&label=Total%20Stars"/>
     <img align="center" src="https://img.shields.io/github/followers/liu246542?style=flat&label=Followers"/>
     <a href="https://github.com/liu246542?tab=repositories"><img align="center" src="https://img.shields.io/badge/GitHub-Repositories-blue?style=flat&labelColor=gray"/></a>
-    <a href="https://nerdliu.cyou"><img align="center" src="https://img.shields.io/badge/Blog-Hexo-blue?style=flat&labelColor=gray"/></a>
+    <a href="https://nerdliu.cyou"><img align="center" src="https://img.shields.io/badge/Blog-NerdLiu-blue?style=flat&labelColor=gray"/></a>
     <a href="https://fishing.nerdliu.cyou/#/game/fliu"><img align="center" src="https://img.shields.io/badge/Game-Memories-blue?style=flat&labelColor=gray"/></a>
 </p>
 
@@ -38,17 +38,3 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-> "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
-
-<div align="center">
-    <img src="https://wakatime.com/share/@576d3a82-af8c-4297-941c-f2bb44432de8/68885c2b-6dab-4a7b-94eb-b71439a0a9d5.svg" alt="Wakatime" style="max-width: 80%; width: 685px;">
-</div>
-
----
-
-> "Always be yourself, express yourself, have faith in yourself, do not go out and look for a successfull personality and duplicate it."
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=liu246542&column=5&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy">
-</div>
